@@ -30,7 +30,6 @@ namespace Thomas_TechSupport
             string tickDescription = textBox3.Text; //What the problem is.
             string TicketImportance = textBox4.Text; //The level of importance
             string email = textBox5.Text; //The client email adress.
-            int i = 0; //This is to send all the data
 
 
             string ipAdress = "xxx.xxx.xxx.xxx"; //the ip adress for the server
