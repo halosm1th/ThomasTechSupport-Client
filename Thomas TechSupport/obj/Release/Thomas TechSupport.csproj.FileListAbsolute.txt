@@ -1,0 +1,11 @@
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\bin\Release\Thomas TechSupport.exe.config
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\bin\Release\Thomas TechSupport.exe
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\bin\Release\Thomas TechSupport.pdb
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas TechSupport.csprojResolveAssemblyReference.cache
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas_TechSupport.Form1.resources
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas_TechSupport.Form2.resources
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas_TechSupport.Properties.Resources.resources
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas TechSupport.csproj.GenerateResource.Cache
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas TechSupport.exe
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas TechSupport.pdb
+M:\hacking game\Thomas TechSupport\Thomas TechSupport\obj\Release\Thomas_TechSupport.Form3.resources
